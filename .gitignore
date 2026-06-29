@@ -1,0 +1,17 @@
+.env
+
+.gradio/
+.idea/
+.venv/
+__pycache__/
+
+backups/
+*_profile/
+output/
+
+court_login.json
+
+*.pyc
+Thumbs.db
+
+court_login.json
